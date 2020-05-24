@@ -15,49 +15,49 @@
         <dependency>
             <groupId>org.elasticsearch</groupId>
             <artifactId>elasticsearch</artifactId>
-            <version>7.0.1</version>
+            <version>7.7.0</version>
         </dependency>
         <dependency>
             <groupId>org.elasticsearch</groupId>
             <artifactId>elasticsearch-x-content</artifactId>
-            <version>7.0.1</version>
+            <version>7.7.0</version>
         </dependency>
         <dependency>
             <groupId>org.elasticsearch.client</groupId>
             <artifactId>elasticsearch-rest-high-level-client</artifactId>
-            <version>7.0.1</version>
+            <version>7.7.0</version>
         </dependency>
         <dependency>
             <!-- Java REST client internally uses Apache HTTP Async Client to send HTTP requests. -->
             <groupId>org.elasticsearch.client</groupId>
             <artifactId>elasticsearch-rest-client</artifactId>
-            <version>7.0.1</version>
+            <version>7.7.0</version>
         </dependency>
         <dependency>
             <groupId>io.vertx</groupId>
             <artifactId>vertx-service-proxy</artifactId>
-            <version>3.7.0</version>
+            <version>3.9.1</version>
         </dependency>
         <dependency>
             <groupId>io.vertx</groupId>
             <artifactId>vertx-codegen</artifactId>
-            <version>3.7.0</version>
+            <version>3.9.1</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>io.vertx</groupId>
             <artifactId>vertx-core</artifactId>
-            <version>3.7.0</version>
+            <version>3.9.1</version>
         </dependency>
         <dependency>
             <groupId>io.vertx</groupId>
             <artifactId>vertx-web</artifactId>
-            <version>3.7.0</version>
+            <version>3.9.1</version>
         </dependency>
         <dependency>
             <groupId>io.vertx</groupId>
             <artifactId>vertx-web-client</artifactId>
-            <version>3.7.0</version>
+            <version>3.9.1</version>
         </dependency>
         <dependency>
             <groupId>org.slf4j</groupId>
